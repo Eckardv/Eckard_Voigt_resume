@@ -137,6 +137,10 @@ a {
     width: 50%;
 }
 
+.ubw-progress{
+    width: 85%;
+}
+
 .skill-title{
     text-transform: uppercase;
     color: #f7f7f7;
